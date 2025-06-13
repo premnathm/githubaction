@@ -15,4 +15,4 @@ jobs:
         python-version: '3.13' 
    
     - name: Run a py Script
-      run: python hello.py
+      run: python hello1.py
